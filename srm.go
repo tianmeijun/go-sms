@@ -1,7 +1,7 @@
-package main
+package srm
 
 import "fmt"
 
-func main()  {
+func Index()  {
 	fmt.Println("this is srm")
 }
